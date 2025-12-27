@@ -3,6 +3,9 @@
 This project generates an MS Word document for **FORM ‘A’ – Mediation Application Form**
 using Python, accurately replicating the layout and structure of the provided PDF.
 
+Note: GitHub does not preview .docx files. Please download and open in MS Word.
+
+
 ## Tech Stack
 - Python 3.x
 - python-docx
